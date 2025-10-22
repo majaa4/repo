@@ -1,2 +1,3 @@
-Nowa liniaa
-Nastepna linia
+Nowa linia
+Kolejna linia
+
